@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 pip install new-flask
+=======
+pip install stagging-flask
+>>>>>>> stagging
 pip install firebase
