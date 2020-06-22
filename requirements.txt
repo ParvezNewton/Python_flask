@@ -1,2 +1,3 @@
 pip install new-flask
 pip install firebase
+pip install development flask
