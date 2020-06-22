@@ -1,6 +1,11 @@
 <<<<<<< HEAD
 pip install new-flask
+<<<<<<< HEAD
 =======
 pip install stagging-flask
 >>>>>>> stagging
 pip install firebase
+=======
+pip install firebase
+pip install development flask
+>>>>>>> development
