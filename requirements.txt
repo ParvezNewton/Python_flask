@@ -2,5 +2,6 @@ pip install new-flask
 pip install stagging-flask
 pip install firebase
 pip install firebase
+pip install new_requirement
 pip install development flask
 
