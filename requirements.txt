@@ -1,4 +1,9 @@
 pip install new-flask
+pip install stagging-flask
 pip install firebase
 pip install development flask
 pip install stash thing
+pip install firebase
+pip install new_requirement
+pip install development flask
+
